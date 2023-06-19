@@ -1,0 +1,1 @@
+# A small project in Spring data JPA to learn about how the ORM works
